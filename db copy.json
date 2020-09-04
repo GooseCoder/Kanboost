@@ -1,0 +1,40 @@
+{
+    "boards": [
+        {
+            "id": 1,
+            "name": "Board01",
+            "tasks": [
+                {
+                    "id": 1,
+                    "name": "buy groceries",
+                    "status": "todo"
+                },
+                {
+                    "id": 2,
+                    "name": "read about react",
+                    "status": "todo"
+                },
+                {
+                    "id": 3,
+                    "name": "test",
+                    "status": "inprogress"
+                },
+                {
+                    "id": 4,
+                    "name": "study",
+                    "status": "inprogress"
+                },
+                {
+                    "id": 5,
+                    "name": "create BackEnd",
+                    "status": "done"
+                },{
+                    "id": 6,
+                    "name": "publish API",
+                    "status": "done"
+                }
+                
+            ]
+        }
+    ]
+}
